@@ -1,6 +1,6 @@
 ---
-layout: page
-category: environment
+layout: post
+#category: environment
 title: 깃 블로그 테마 설치 주의 사항
 ---
 
